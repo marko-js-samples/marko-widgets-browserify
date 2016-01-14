@@ -1,7 +1,7 @@
 {
   "name": "marko-widgets-browserify",
   "version": "1.0.0",
-  "description": "",
+  "description": "Demonstrates using the browserify to bundle up a Marko Widgets UI components for the browser",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
